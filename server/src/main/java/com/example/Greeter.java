@@ -23,4 +23,7 @@ public class Greeter {
   public String greet12(String someone) {
 	    return String.format("I am doing good , %s!", someone);
 	  }
+  public String greet13(String someone) {
+	    return String.format("Thank you for asking , %s!", someone);
+	  }
 }
