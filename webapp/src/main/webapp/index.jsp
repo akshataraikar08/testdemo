@@ -3,6 +3,4 @@
 <h2> Good Luck and we are almost done with the course.Thankyou !!!!! </h2>
 <h2> we are almost done with the course.Thankyou !!!!! </h2>
 <h2> we are almost done with the course.Thankyou !!!!! </h2>
-<h2> we are almost done with the course.Thankyou !!!!! </h2>
-<h2> we are almost done with the course.Thankyou !!!!! </h2>
 
